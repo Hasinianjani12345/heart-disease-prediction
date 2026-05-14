@@ -20,3 +20,6 @@ This is a Machine Learning web application built using Streamlit and Logistic Re
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Live Demo 🌍
+
+[Open Heart Disease Prediction App](https://iohd82cqkizqce8efvgc9y.streamlit.app/)
